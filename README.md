@@ -16,9 +16,9 @@ The purpose of this analysis was to help the Alphabet Soup foundation decide whi
   - **SPECIAL_CONSIDERATIONS** — Special consideration for application
   - **ASK_AMT** — Funding amount requested
 
-The target array was made up of the IS_SUCCESSFUL column
+- The target array was made up of the IS_SUCCESSFUL column:
 
-**IS_SUCCESSFUL** — Was the money used effectively
+ - **IS_SUCCESSFUL** — Was the money used effectively
 
   - Non-features excluded:
 
