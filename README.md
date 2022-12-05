@@ -1,22 +1,35 @@
 # Neural_Network_Charity_Analysis
-# Overview of the analysis: 
+## Overview of the analysis: 
 The purpose of this analysis was to help the Alphabet Soup foundation decide which applicants to invest in based on their predicted success. 
 
 ## Results: 
 ### Data Preprocessing
 - The data was preprocessed into features and target arrays. Features included the following:
+
 APPLICATION_TYPE—Alphabet Soup application type
+
 AFFILIATION—Affiliated sector of industry
---CLASSIFICATION—Government organization classification
+
+CLASSIFICATION—Government organization classification
+
 •	USE_CASE—Use case for funding
+
 •	ORGANIZATION—Organization type
+
 •	STATUS—Active status
+
 •	INCOME_AMT—Income classification
+
 •	SPECIAL_CONSIDERATIONS—Special consideration for application
+
 •	ASK_AMT—Funding amount requested
+
 The target array was made up of the IS_SUCCESSFUL column
+
 •	IS_SUCCESSFUL—Was the money used effectively
+
 Non-features excluded:
+
 •	EIN and NAME—Identification columns
 
 - Compiling, Training, and Evaluating the Model
