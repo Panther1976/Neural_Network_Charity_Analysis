@@ -52,6 +52,7 @@ Below are the changes made to test the Random Forest model on the data:
 ![Attempt3_Change_2](https://user-images.githubusercontent.com/106631875/205740221-1f8c651c-c33e-43ba-ab4f-d230d5b4375d.png)
 
 Results of the Random Forest model:
+
 ![Attempt3_Results](https://user-images.githubusercontent.com/106631875/205740238-024c65fd-a885-4acb-8c5d-bae617eb48d7.png)
 
 # Summary: 
